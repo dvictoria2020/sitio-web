@@ -1,4 +1,4 @@
 # sitio-web
-sitio web ejemplo
+Sitio web ejemplo
 
 [Enlace del sitio GitHub](https://pages.github.com/)
